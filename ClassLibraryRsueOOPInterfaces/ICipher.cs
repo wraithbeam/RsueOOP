@@ -8,6 +8,7 @@ namespace ClassLibraryRsueOOPInterfaces
 {
     public interface ICipher
     {
+        string Text { get; set; }
         void Encode();
         void Decode();
 

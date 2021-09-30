@@ -8,6 +8,9 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\nЗадание №1:\n");
+
+            #region Задание 1
             IEmployee emp_e = new Employee();
             emp_e.Enter();
 
@@ -33,6 +36,28 @@ namespace Lab4
             Array.Sort(employees);
             for (int i = 0; i < 3; i++)
                 employees[i].Display();
+
+            #endregion
+
+            Console.WriteLine("\nЗадание №2:\n");
+
+            #region Задание 2
+
+            ICipher cipher = new ACipher();
+            cipher.Text = "Привет, пицца!";
+            cipher.Encode();
+            Console.WriteLine("Результат шифрования: " + cipher.Text);
+            cipher.Decode();
+            Console.WriteLine("Результат дешифрования: " + cipher.Text);
+
+            ICipher cipher1 = new BCipher();
+            cipher1.Text = "АБВгдеЭЮЯ";
+            cipher1.Encode();
+            Console.WriteLine("\nРезультат шифрования: " + cipher1.Text);
+            cipher1.Decode();
+            Console.WriteLine("Результат дешифрования: " + cipher1.Text);
+
+            #endregion
 
         }
     }
