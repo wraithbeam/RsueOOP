@@ -18,6 +18,7 @@ namespace RsueOOP
             Company company = new Company();
             company.Input();
             company.Output();
+
         }
     }
 }
