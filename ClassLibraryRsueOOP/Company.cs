@@ -8,6 +8,7 @@ namespace ClassLibraryRsueOOP
 {
     public class Company : Client
     {
+
         #region Поля
 
         string name, form;

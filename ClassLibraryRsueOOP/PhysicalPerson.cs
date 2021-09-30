@@ -8,6 +8,7 @@ namespace ClassLibraryRsueOOP
 {
     public class PhysicalPerson : Client
     {
+
         #region Поля
 
         string fio, sex;
