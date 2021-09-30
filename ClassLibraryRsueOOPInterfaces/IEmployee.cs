@@ -13,4 +13,5 @@ namespace ClassLibraryRsueOOPInterfaces
         void Display();
 
     }
+
 }
