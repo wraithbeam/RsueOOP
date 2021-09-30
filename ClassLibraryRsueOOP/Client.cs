@@ -38,6 +38,5 @@ namespace ClassLibraryRsueOOP
         }
 
         #endregion
-
     }
 }
