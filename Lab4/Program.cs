@@ -33,6 +33,7 @@ namespace Lab4
             Array.Sort(employees);
             for (int i = 0; i < 3; i++)
                 employees[i].Display();
+
         }
     }
 }
