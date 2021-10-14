@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4", "Lab4\Lab4.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryRsueOOPInterfaces", "ClassLibraryRsueOOPInterfaces\ClassLibraryRsueOOPInterfaces.csproj", "{5F8032DF-45A2-4D43-9C8E-0358D8DC3720}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5", "Lab5\Lab5.csproj", "{F9C86C97-8D18-49C7-BFD5-E5F8F324B56C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5F8032DF-45A2-4D43-9C8E-0358D8DC3720}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8032DF-45A2-4D43-9C8E-0358D8DC3720}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8032DF-45A2-4D43-9C8E-0358D8DC3720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C86C97-8D18-49C7-BFD5-E5F8F324B56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C86C97-8D18-49C7-BFD5-E5F8F324B56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C86C97-8D18-49C7-BFD5-E5F8F324B56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C86C97-8D18-49C7-BFD5-E5F8F324B56C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

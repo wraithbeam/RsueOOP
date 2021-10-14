@@ -25,8 +25,8 @@ namespace ClassLibraryRsueOOP
         }
 
 
-        private int salary;
-        public int Salary { get => salary; set => salary = value; }
+        private double salary;
+        public double Salary { get => salary; set => salary = value; }
 
         #endregion
         #region Методы
