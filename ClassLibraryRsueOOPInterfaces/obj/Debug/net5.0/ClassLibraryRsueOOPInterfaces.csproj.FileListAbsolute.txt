@@ -1,0 +1,12 @@
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\bin\Debug\net5.0\ClassLibraryRsueOOPInterfaces.deps.json
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\bin\Debug\net5.0\ClassLibraryRsueOOPInterfaces.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\bin\Debug\net5.0\ref\ClassLibraryRsueOOPInterfaces.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\bin\Debug\net5.0\ClassLibraryRsueOOPInterfaces.pdb
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ClassLibraryRsueOOPInterfaces.csprojAssemblyReference.cache
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ClassLibraryRsueOOPInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ClassLibraryRsueOOPInterfaces.AssemblyInfoInputs.cache
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ClassLibraryRsueOOPInterfaces.AssemblyInfo.cs
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ClassLibraryRsueOOPInterfaces.csproj.CoreCompileInputs.cache
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ClassLibraryRsueOOPInterfaces.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ref\ClassLibraryRsueOOPInterfaces.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOPInterfaces\obj\Debug\net5.0\ClassLibraryRsueOOPInterfaces.pdb

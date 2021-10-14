@@ -1,0 +1,15 @@
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\bin\Debug\net5.0\ClassLibraryRsueOOP.deps.json
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\bin\Debug\net5.0\ClassLibraryRsueOOP.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\bin\Debug\net5.0\ref\ClassLibraryRsueOOP.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\bin\Debug\net5.0\ClassLibraryRsueOOP.pdb
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.csprojAssemblyReference.cache
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.AssemblyInfoInputs.cache
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.AssemblyInfo.cs
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.csproj.CoreCompileInputs.cache
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ref\ClassLibraryRsueOOP.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.pdb
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\bin\Debug\net5.0\ClassLibraryRsueOOPInterfaces.dll
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\bin\Debug\net5.0\ClassLibraryRsueOOPInterfaces.pdb
+D:\Projects\RsueOOP\ClassLibraryRsueOOP\obj\Debug\net5.0\ClassLibraryRsueOOP.csproj.CopyComplete
