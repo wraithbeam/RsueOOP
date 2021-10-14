@@ -5,7 +5,7 @@ namespace ClassLibraryRsueOOP
 {
     public delegate void EmployeeInfo();
     public delegate double RaiseSalary();
-    public delegate bool SortEmployeeCondition(EmployeeWithDeligate first, EmployeeWithDeligate second);
+    public delegate bool SortEmployeeCondition(EmployeeWithDeligate first, EmployeeWithDeligate second);//Делигат для условия сортировки
 
     public class EmployeeWithDeligate : Employee
     {
@@ -25,7 +25,7 @@ namespace ClassLibraryRsueOOP
             return Salary *= (1 + bonus);
         }
 
-        public static void SortBy(ref EmployeeWithDeligate[] employees, SortEmployeeCondition sort)
+        public static void SortBy(ref EmployeeWithDeligate[] employees, SortEmployeeCondition sort)//Принимаем делигат
         {
             EmployeeWithDeligate employee = new EmployeeWithDeligate();
 
@@ -33,7 +33,7 @@ namespace ClassLibraryRsueOOP
             {
                 for (int j = i + 1; j < employees.Length; j++)
                 {
-                    if (sort(employees[i], employees[j]))
+                    if (sort(employees[i], employees[j]))//Используем делигат
                     {
                         employee = employees[i];
                         employees[i] = employees[j];

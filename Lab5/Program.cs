@@ -5,7 +5,7 @@ namespace Lab5
 {
     class Program
     {
-        static bool sortCondition(EmployeeWithDeligate first, EmployeeWithDeligate second)
+        static bool sortCondition(EmployeeWithDeligate first, EmployeeWithDeligate second) //Метод для делигата
         {
             if (first.Salary < second.Salary)
                 return true;
@@ -35,9 +35,9 @@ namespace Lab5
             }
 
 
-            SortEmployeeCondition sortEmployeeCondition = sortCondition;
+            SortEmployeeCondition sortEmployeeCondition = sortCondition; //Метод для реализации делигата
 
-            EmployeeWithDeligate.SortBy(ref emps, sortEmployeeCondition);
+            EmployeeWithDeligate.SortBy(ref emps, sortEmployeeCondition);//Сортировка
 
             for (int i = 0; i < emps.Length; i++)
             {
