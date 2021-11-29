@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClassLibraryRsueOOP/1.0.0": {
+        "dependencies": {
+          "ClassLibraryRsueOOPInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryRsueOOP.dll": {}
+        }
+      },
+      "ClassLibraryRsueOOPInterfaces/1.0.0": {
+        "runtime": {
+          "ClassLibraryRsueOOPInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryRsueOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryRsueOOPInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
