@@ -36,9 +36,34 @@ namespace ClassLibraryRsueOOP
         public int TimeOfCall { get => timeOfCall; set => timeOfCall = value; }
         public long Number { get => number; set => number = value; }
 
+        public override bool Equals(object obj)
+        {
+            return obj is ATS aTS &&
+                   day == aTS.day &&
+                   mouth == aTS.mouth &&
+                   year == aTS.year &&
+                   idCity == aTS.idCity &&
+                   cityName == aTS.cityName &&
+                   timeOfCall == aTS.timeOfCall &&
+                   number == aTS.number;
+        }
+
+        public override int GetHashCode()
+        {
+            HashCode hash = new HashCode();
+            hash.Add(day);
+            hash.Add(mouth);
+            hash.Add(year);
+            hash.Add(idCity);
+            hash.Add(timeOfCall);
+            hash.Add(number);
+            hash.Add(cityName);
+            return hash.ToHashCode();
+        }
+
         public override string ToString()
         {
-            return ($"{day}.{mouth}.{year} {cityName}: длительность разговора {timeOfCall/60} часа(-ов) и {timeOfCall%60} минут(-ы) ({timeOfCall} мин.).");
+            return ($"{day}.{mouth}.{year} {cityName}\t:длительность разговора\t {timeOfCall/60} часа(-ов) и {timeOfCall%60} минут(-ы)\t({timeOfCall} мин.).");
         }
     }
 }
